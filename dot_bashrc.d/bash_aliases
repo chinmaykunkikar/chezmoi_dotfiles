@@ -1,0 +1,4 @@
+alias ls='exa --long --all --header --sort=ext'
+alias g='git'
+alias rm='rm -r'
+alias code='code .'
